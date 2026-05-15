@@ -1,3 +1,3 @@
 # Essays
 
-[[Classical Music|О классике]]
+[О классике](Classical%20Music.md)
